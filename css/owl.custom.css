@@ -1,0 +1,28 @@
+
+
+.info-left {
+	float: left;
+	height: 400px;
+	width: 450px;
+
+}
+.info-left img {
+	height: 400px;
+	max-width: 450px;
+	border: 1px solid blue;
+	padding: 5px 5px;
+}
+
+.info-right {
+	float: left;
+	overflow: hidden;
+	height: auto;
+	max-width: 450px;
+}
+
+.info-right ul {
+	margin-top: 10px;
+	list-style: none;
+	margin: 10px 5px 5px 0;
+
+}
